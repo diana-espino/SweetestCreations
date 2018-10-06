@@ -46,7 +46,10 @@ body {
     color: red !important;
 }
 #topNavHomeTitle{
-    color: blue;
+    color: white;
+    font-size: 40px;
+
+
 }
 #topNavSection {
     margin-top: -55px;
