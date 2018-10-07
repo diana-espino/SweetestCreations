@@ -8,8 +8,9 @@ body {
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color:lightpink;
 }
 
 /* Carousel */
@@ -43,20 +44,25 @@ body {
 */
 
 .topNavButton{
-    color: red !important;
+    color: deeppink !important;
+    font-size:30px;
+    font-family:'Bookman Old Style'
+    
 }
 #topNavHomeTitle{
     color: white;
-    font-size: 40px;
+    font-size: 55px;
+    font-family:'French Script MT'
 
 
 }
 #topNavSection {
     margin-top: -55px;
-    height: 50vh;
-    background-color: orange;
-    background-image: url(../images/baking.jpeg);
+    height: 46vh;
+    background-image: url(../images/spongecake.jpg);
+   
 }
 #topNavRow {
     background-color: rgba(34, 34, 34, 0.1);
+    height:5vh;
 }
