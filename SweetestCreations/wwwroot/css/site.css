@@ -1,16 +1,20 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification\ 
 for details on configuring this project to bundle and minify static web assets. */
-body {
+body{
     padding-top: 50px;
     padding-bottom: 20px;
+    background-color:lavenderblush;
+
+
 }
 
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {
-    padding-left: 0px;
-    padding-right: 0px;
-    background-color:lightpink;
+    padding-left: 50px;
+    padding-right: 50px;
+   
+
 }
 
 /* Carousel */
@@ -46,13 +50,15 @@ body {
 .topNavButton{
     color: deeppink !important;
     font-size:30px;
-    font-family:'Bookman Old Style'
+    font-family:'Brush Script MT'
+    
     
 }
 #topNavHomeTitle{
     color: white;
     font-size: 55px;
-    font-family:'French Script MT'
+    font-family:'French Script MT';
+  
 
 
 }
@@ -65,4 +71,7 @@ body {
 #topNavRow {
     background-color: rgba(34, 34, 34, 0.1);
     height:5vh;
+}
+* {
+    box-sizing: border-box
 }
