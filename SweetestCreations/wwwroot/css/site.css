@@ -51,16 +51,11 @@ body{
     color: deeppink !important;
     font-size:30px;
     font-family:'Brush Script MT'
-    
-    
 }
 #topNavHomeTitle{
     color: white;
     font-size: 55px;
     font-family:'French Script MT';
-  
-
-
 }
 #topNavSection {
     margin-top: -58px;
@@ -75,3 +70,11 @@ body{
 * {
     box-sizing: border-box
 }
+#Quote{
+    font-family:'Bookman Old Style';
+    font-size:55px;
+    color:aliceblue;
+
+
+}
+
