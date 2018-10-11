@@ -59,10 +59,10 @@ body{
 }
 #topNavSection {
     margin-top: -58px;
-    height: 46vh;
-    background-image: url(../images/spongecake.jpg);
+    height: 48vh;
+    background-image: url(../images/headerphoto.jpg);
    
-}
+} 
 #topNavRow {
     background-color: rgba(34, 34, 34, 0.1);
     height:5vh;
